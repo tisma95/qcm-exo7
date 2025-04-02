@@ -8,14 +8,6 @@ Vous trouverez ici deux choses :
 * des qcm (questions à choix multiples) de mathématiques pour l'université,
 * des outils pour créer, gérer et transformer des qcm.
 
-Nouvautés
-=========
-
-* 163 nouvelles questions (issu d'un projet Hilisit-Unisciel transition lycée-université) sur les chapitres "Logique", "Arithmétique" et "Équations différentielles". (A. Bodin, B. Croizat, C. Sacré, mars 2022).
-* Afficher les réponses sur deux colonnes (Vincent Ledda, janvier 2021)
-* Conversion vers le format 'latex-moodle' afin de compiler directement du code Latex vers un export moodle via le package 'moodle' (https://ctan.org/pkg/moodle) (janvier 2021)
-* Les 720 questions de Lille sont directement disponibles au format 'yaml' et 'latex-moodle' (janvier 2021).
-
 Questions
 =========
 
@@ -47,6 +39,14 @@ Questions
 Les sources sont disponibles sur cette page 
 [GitHub - Exo7 -QCM](https://github.com/exo7math/qcm-exo7 "github.com/exo7math/qcm-exo7").
 
+
+Nouveautés
+==========
+
+* 163 nouvelles questions (issu d'un projet Hilisit-Unisciel transition lycée-université) sur les chapitres "Logique", "Arithmétique" et "Équations différentielles". (A. Bodin, B. Croizat, C. Sacré, mars 2022).
+* Afficher les réponses sur deux colonnes (Vincent Ledda, janvier 2021)
+* Conversion vers le format 'latex-moodle' afin de compiler directement du code Latex vers un export moodle via le package 'moodle' (https://ctan.org/pkg/moodle) (janvier 2021)
+* Les 720 questions de Lille sont directement disponibles au format 'yaml' et 'latex-moodle' (janvier 2021).
 
 
 Outils
